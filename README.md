@@ -8,8 +8,10 @@ The **UoV Student Care App** is a mobile application designed for the students o
 - Secure authentication using a username and password.
 - Password visibility toggle for user convenience.
 
-![Login Page](screenshots/login.png)
-![Password Toggle](screenshots/password-toggle.png)
+![Login Page]![WhatsApp Image 2025-01-05 at 19 42 24_529a6d7e](https://github.com/user-attachments/assets/583a39c4-1832-4bdd-9387-4366502fb33c)
+![WhatsApp Image 2025-01-05 at 19 42 22_d48df50e](https://github.com/user-attachments/assets/3ecd6224-411d-400a-8d4d-c78f514976c6)
+
+
 
 ### 🧑‍🎓 **Profile Page**
 - Displays student details such as:
@@ -19,18 +21,21 @@ The **UoV Student Care App** is a mobile application designed for the students o
   - Contact information
   - Biological information (e.g., blood group)
 
-![Profile Page](screenshots/profile.png)
+![Profile Page]![WhatsApp Image 2025-01-05 at 19 42 23_f6d8f971](https://github.com/user-attachments/assets/0c43fbfc-3c57-4a98-bad3-44b7d3feab2f)
+![WhatsApp Image 2025-01-05 at 19 42 23_6a0e38f1](https://github.com/user-attachments/assets/9aca9d05-151c-46e8-91a9-c2c96d267993)
+
 
 ### 📚 **Courses Page**
 - Lists the courses the logged-in student is enrolled in.
 
-![Courses Page](screenshots/courses.png)
+![Courses Page]![WhatsApp Image 2025-01-05 at 19 42 23_143203a2](https://github.com/user-attachments/assets/4e168d10-e63a-4fc6-adc6-15c0905ee237)
+
 
 ### 📝 **Subjects Page**
 - Displays detailed subject marks and calculates the average mark.
+![WhatsApp Image 2025-01-05 at 19 42 24_0c84100f](https://github.com/user-attachments/assets/d1c82f94-5995-48f6-8608-a26dd9250ffe)
 
-![Subjects Page](screenshots/subjects.png)
-![Marks Details](screenshots/marks-details.png)
+
 
 ## Installation
 
@@ -61,7 +66,11 @@ The **UoV Student Care App** is a mobile application designed for the students o
 
 Check out our demo video to see the app in action:
 
-[Watch Demo Video](demo/student-care-demo.mp4)
+[Watch Demo Video]
+
+Uploading WhatsApp Video 2025-01-05 at 19.38.16_6d794b75.mp4…
+
+
 
 ## Screenshots
 
