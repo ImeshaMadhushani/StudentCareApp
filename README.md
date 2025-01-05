@@ -8,6 +8,9 @@ The **UoV Student Care App** is a mobile application designed for the students o
 - Secure authentication using a username and password.
 - Password visibility toggle for user convenience.
 
+![Login Page](screenshots/login.png)
+![Password Toggle](screenshots/password-toggle.png)
+
 ### 🧑‍🎓 **Profile Page**
 - Displays student details such as:
   - Name
@@ -16,33 +19,63 @@ The **UoV Student Care App** is a mobile application designed for the students o
   - Contact information
   - Biological information (e.g., blood group)
 
+![Profile Page](screenshots/profile.png)
+
 ### 📚 **Courses Page**
 - Lists the courses the logged-in student is enrolled in.
+
+![Courses Page](screenshots/courses.png)
 
 ### 📝 **Subjects Page**
 - Displays detailed subject marks and calculates the average mark.
 
+![Subjects Page](screenshots/subjects.png)
+![Marks Details](screenshots/marks-details.png)
+
 ## Installation
 
 ### 📦 **Prerequisites**
-- Node.js and npm installed.
-- Expo Go App installed.
+- Node.js and npm installed
+- Expo Go App installed
 
 ### ⚙️ **Steps**
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/ImeshaMadhushani/StudentCareApp.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd StudentCareApp
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+5. Scan the QR code with Expo Go app to run on your device
 
-### Outputs![WhatsApp Image 2025-01-05 at 19 42 24_0c84100f](https://github.com/user-attachments/assets/c276963b-5307-4e3b-8c2f-a1fbf0ff8cf3)
-![WhatsApp Image 2025-01-05 at 19 42 23_143203a2](https://github.com/user-attachments/assets/8f2554b6-450a-4cb3-8c01-d5d06a563705)
-![WhatsApp Image 2025-01-05 at 19 42 23_6a0e38f1](https://github.com/user-attachments/assets/63ecbbc3-f699-4f67-99d4-fe5eb5167d41)
-![WhatsApp Image 2025-01-05 at 19 42 23_f6d8f971](https://github.com/user-attachments/assets/e721b394-1374-4304-b8f6-efc6cdaa6e1f)
-![WhatsApp Image 2025-01-05 at 19 42 22_d48df50e](https://github.com/user-attachments/assets/480a7373-7101-4587-b332-15d5586108bc)
+## Demo
 
-![WhatsApp Image 2025-01-05 at 19 42 24_529a6d7e](https://github.com/user-attachments/assets/376cca5f-d14d-4ae3-8ae7-40b0f501486d)
+Check out our demo video to see the app in action:
 
-### Demo Video
+[Watch Demo Video](demo/student-care-demo.mp4)
 
+## Screenshots
 
-https://github.com/user-attachments/assets/413d7868-e02b-47aa-95f8-acffa275cbbd
-
+<div align="center">
+<table>
+  <tr>
+    <td><img src="screenshots/login.png" alt="Login Screen" width="200"/></td>
+    <td><img src="screenshots/password-toggle.png" alt="Password Toggle" width="200"/></td>
+    <td><img src="screenshots/profile.png" alt="Profile Page" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/courses.png" alt="Courses Page" width="200"/></td>
+    <td><img src="screenshots/subjects.png" alt="Subjects Page" width="200"/></td>
+    <td><img src="screenshots/marks-details.png" alt="Marks Details" width="200"/></td>
+  </tr>
+</table>
+</div>
